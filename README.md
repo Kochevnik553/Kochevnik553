@@ -11,7 +11,10 @@ Soon...
 ![GIT](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git&logoColor=#F05032)
 ***
 ### Testing Documentation
-
+- Checklists
+- Bug-reports
+- SQL queries
+- Postman collections
 ***
 ### Follow Me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Kochevnik7)
