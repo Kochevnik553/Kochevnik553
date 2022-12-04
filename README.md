@@ -5,6 +5,10 @@ Soon...
 ***
 ### Language and Tools
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman&logoColor=#FF6C37)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=#4169E1)
+![DEVTOOLS](https://img.shields.io/badge/-DEVTOOLS-090909?style=for-the-badge&logo=googlechrome&logoColor=#4285F4)
+![GITHUB](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=github&logoColor=#181717)
+![GIT](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git&logoColor=#F05032)
 ***
 ### Testing Documentation
 
